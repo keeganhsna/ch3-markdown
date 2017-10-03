@@ -6,5 +6,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-<Got dam! - noob noob> <p><a href="http://rickandmorty.wikia.com/wiki/Noob-Noob" title="Noob-Noob">
-an example</a> </p>
+ <p><a href="http://rickandmorty.wikia.com/wiki/Noob-Noob" title="Noob-Noob">
+Got dam! - noob noob</a> </p>
